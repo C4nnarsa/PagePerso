@@ -2,12 +2,13 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
+# Activate this widget? true/false
+active: false
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 15
 
 title: Recent Publications
 subtitle: ''
