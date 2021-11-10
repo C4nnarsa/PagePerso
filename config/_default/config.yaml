@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Daniele Cannarsa # Website name
+baseurl: 'http://users.jyu.fi/~dacannar/' # Website URL du site à choisir
+copyright: '© 2021 Daniele Cannarsa' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
