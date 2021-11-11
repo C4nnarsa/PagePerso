@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Daniele Cannarsa # Website name
-baseurl: 'http://users.jyu.fi/~dacannar/' # Website URL du site à choisir
+baseurl: 'https://dcannarsa.com' # Website URL du site à choisir
 copyright: '© 2021 Daniele Cannarsa' # Footer text, e.g. '© {year} Me'
 
 ############################
