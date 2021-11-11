@@ -77,7 +77,7 @@ email: ""
 highlight_name: true
 ---
 
-Since October 2021, I am a postdoctoral researcher at the University of Jyväskylä affiliated to the project *Sub-Riemannian Geometry via Metric geometry and Lie-group Theory* by {{< staticref "https://sites.google.com/site/enricoledonne" "newtab" >}}Enrico Le Donne{{< /staticref >}}
+Since October 2021, I am a postdoctoral researcher at the University of Jyväskylä affiliated to the project *Sub-Riemannian Geometry via Metric geometry and Lie-group Theory* by {{< staticref "https://sites.google.com/site/enricoledonne" "newtab" >}}Enrico Le Donne{{< /staticref >}}.
 
 I  defended my PhD thesis in September 2021. The manuscript will soon be available {{< staticref "https://www.theses.fr/s209746" "newtab" >}}here{{< /staticref >}}, and the slides will be made available {{< staticref "uploads/slides-these.pdf" "newtab" >}}here{{< /staticref >}}. I have prepared my PhD at the institute {{< staticref "https://www.imj-prg.fr" "newtab" >}}IMJ-PRG{{< /staticref >}} based at the {{< staticref "https://u-paris.fr" "newtab" >}}Université de Paris{{< /staticref >}}, under the supervision of {{< staticref "https://www.math.unipd.it/~barilari/" "newtab" >}}Davide Barilari{{< /staticref >}} and {{< staticref "http://www.cmapx.polytechnique.fr/~boscain/" "newtab" >}}Ugo Boscain{{< /staticref >}}. Additionally, I was affiliated to the {{< staticref "https://www.inria.fr/en/cage" "newtab" >}}INRIA Team CAGE{{< /staticref >}} at {{< staticref "https://www.sorbonne-universite.fr" "newtab" >}}Sorbonne Université{{< /staticref >}}.
 
