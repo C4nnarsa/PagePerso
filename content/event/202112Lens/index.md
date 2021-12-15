@@ -5,20 +5,20 @@ event: Géométrie de Wassertein
 event_url: https://sites.google.com/view/journescomplmentairesrelatives/home
 
 location: Laboratoire de Mathématiques de Lens
-address: Faculté des Sciences Jean Perrin, Université d'Artois
-  street: Rue Jean Souvraz SP 18
- city: LENS
+# address: Faculté des Sciences Jean Perrin, Université d'Artois
+#  street: Rue Jean Souvraz SP 18
+# city: LENS
 #  region: CA
- postcode: '62307'
-  country: France
+# postcode: '62307'
+#  country: France
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Optimal control has already found many applications in machine learning. In this talk we aim to give an introduction to the theory of geometric control theory, presenting some basic results and useful tools. We use these results to show that a bilinear control system is approximately controllable if and only if it is controllable in R^n\{0}. We approach this property by looking at the foliation made by the orbits of the system, and by showing that there does not exist a codimension-one foliation in R^n\{0} with dense leaves that are everywhere transversal to the radial direction. The proposed geometric approach allows to extend the result to homogeneous systems that are angularly controllable. [Joint work with Mario Sigalotti.]"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-11-15T14:15:00Z"
-date_end: "2021-11-15T15:15:00Z"
+date: "2021-12-17T14:00:00Z"
+date_end: "2021-11-15T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
