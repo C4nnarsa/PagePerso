@@ -18,7 +18,7 @@ location: Laboratoire de Mathématiques de Lens
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-12-17T14:00:00Z"
-date_end: "2021-11-15T15:00:00Z"
+date_end: "2021-12-17T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
