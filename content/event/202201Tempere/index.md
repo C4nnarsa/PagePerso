@@ -13,7 +13,7 @@ location: Tampere University
 #  country: France
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
- abstract: "In this talk we aim to give an introduction to the theory of geometric control theory, presenting some basic results and useful tools. We use these results to show that a bilinear control system is approximately controllable if and only if it is controllable. We approach this property by looking at the foliation made by the orbits of the system, and by showing that there does not exist a codimension-one foliation in $R^n$ with dense leaves that are everywhere transversal to the radial direction. The proposed geometric approach allows to extend the result to homogeneous systems that are angularly controllable. Joint work with Mario Sigalotti."
+ abstract: "In this talk we aim to give an introduction to the theory of geometric control theory, presenting some basic results and useful tools. We use these results to show that a bilinear control system is approximately controllable if and only if it is controllable. We approach this property by looking at the foliation made by the orbits of the system, and by showing that there does not exist a codimension-one foliation with dense leaves that are everywhere transversal to the radial direction. The proposed geometric approach allows to extend the result to homogeneous systems that are angularly controllable. Joint work with Mario Sigalotti."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
